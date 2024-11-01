@@ -12,14 +12,13 @@ export default function Payment(){
             <input type="Password" className="border-orange-800 py-2 w-2/6 text-black rounded-2xl" placeholder="Enter Your Password" />
             <input type="Password" className="border-orange-800 py-2 w-2/6 text-black rounded-2xl" placeholder="Enter Your Card Number" />
             <input type="Password" className="border-orange-800 py-2 w-2/6 text-black rounded-2xl" placeholder="Enter Your PIN" />
-            <link href="/thanks"/>
+            <Link href="/thanks">
             <button className="bg-blue-900 text-white rounded-lg py-3 px-7">
                
                 Pay Now
                 </button>
-                
-
-
+                </Link>
+              
 
         </form>
      </div>

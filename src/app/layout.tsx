@@ -1,9 +1,8 @@
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import type { Metadata } from "next";
-import thanks from "./thanks/page";
+
 import localFont from "next/font/local";
-import Payment from "./Payment/page";
 
 import "./globals.css";
 

@@ -20,9 +20,9 @@ export default function corolla(){
                 </div>
 
                 <button className="bg-blue-800 text-black rounded-3xl py-2 px-2">
-                    <link href="/Payment">
+                    <Link href="/Payment">
                     MAKE PAYMENT
-                    </link>
+                    </Link>
                 </button>
             </div>
         </div>
